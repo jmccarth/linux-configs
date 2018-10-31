@@ -99,8 +99,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+<<<<<<< HEAD
 
 export VISUAL=vim
 export EDITOR="$VISUAL"
+=======
+>>>>>>> 328b471503c6c40b3a089e562a9fb34867af006f
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
